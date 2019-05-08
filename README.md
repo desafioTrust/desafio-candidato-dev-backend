@@ -7,7 +7,7 @@ https://github.com/desafioTrust/desafio-candidato-dev-backend
 
 Crie um repositório privado no GitHub.com a partir de um fork do projeto desafio-candidato-dev-backend. Você também deve adicionar o usuário **desafioTrust** como colaborador deste repositorio privado para que possamos fazer a avaliação.
 
-Por favor execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o professional que você é, boa sorte!
+Por favor execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o professional que você é. As atividades 1, 2 e 3 são pra perfils junior e pleno. o resto pra pleno e senior. Boa sorte!
 
 1)	**Code Review.** 
 Precisamos que você revise nosso código, sendo assim por favor avalie com critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**, o que está no projeto de teste desafio-candidato-dev-backend. Monte por favor um **src/main/resources/CODEREVIEW.txt** com seus comentários. Você precisa apontar tudo o que você achar errado/estranho em todo o projeto.
