@@ -10,7 +10,7 @@ Por favor crie um repositório privado no GitHub.com com seu teste. Você també
 Por favor execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o professional que você é, boa sorte!
 
 1)	**Code Review.** 
-Precisamos que você revise nosso código, sendo assim por favor avalie com critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**, o que está no projeto de teste. Monte por favor um README com seus comentários. Você precisa apontar tudo o que você achar errado/estranho em todo o projeto.
+Precisamos que você revise nosso código, sendo assim por favor avalie com critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**, o que está no projeto de teste. Monte por favor um **src/main/resources/CODEREVIEW.txt** com seus comentários. Você precisa apontar tudo o que você achar errado/estranho em todo o projeto.
 
 2)	**Healthcheck.**
 Os serviços precisam ser validados e monitorados por isso é necessário que seja implementado um serviço que cheque a saúde dos nossos serviços, sendo assim crie um endpoint healthcheck em nosso micro-serviço de teste (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
