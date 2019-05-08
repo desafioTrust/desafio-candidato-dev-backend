@@ -5,7 +5,7 @@ Estamos disponibilizando para você um projeto REST Maven em Java muito parecido
 https://github.com/desafioTrust/desafio-candidato-dev-backend
 
 
-Por favor crie um repositório privado no GitHub.com com seu teste. Você também deve adicionar o usuário **desafioTrust** como colaborador do projeto para que possamos fazer a avaliação.
+Por favor crie um repositório privado no GitHub.com a partir deste um fork do projeto desafio-candidato-dev-backend. Você também deve adicionar o usuário **desafioTrust** como colaborador do projeto para que possamos fazer a avaliação.
 
 Por favor execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o professional que você é, boa sorte!
 
