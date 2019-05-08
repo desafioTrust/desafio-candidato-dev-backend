@@ -10,7 +10,7 @@ Por favor crie um repositório privado no GitHub.com com seu teste. Você també
 Por favor execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o professional que você é, boa sorte!
 
 1)	**Code Review.** 
-Precisamos que você revise nosso código, sendo assim por favor avalie com critérios de padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação, o que está no projeto de teste. Monte por favor um README com seus comentários.
+Precisamos que você revise nosso código, sendo assim por favor avalie com critérios de .**padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação.**, o que está no projeto de teste. Monte por favor um README com seus comentários. Você precisa apontar tudo o que você achar errado/estranho em todo o projeto.
 
 2)	**Healthcheck.**
 Os serviços precisam ser validados e monitorados por isso é necessário que seja implementado um serviço que cheque a saúde dos nossos serviços, sendo assim crie um endpoint healthcheck em nosso micro-serviço de teste (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
@@ -27,7 +27,7 @@ Precisamos construir 2 serviços no projeto de teste, ambos vão consumir o segu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
 
 4)	**Implementação de Cache:**
-Pesquise e aplique alguma biblioteca de cache para tornar nosso micro-serviço mais rápido, assim evita chamar nossa API com dados consultados recentemente.
+Pesquise e aplique alguma biblioteca de cache para tornar nosso micro-serviço mais rápido, assim evita chamar nossa API com dados consultados recentemente. Por favor justifique brevemente a responta.
 
 5)	**Service Discovery e Perfil:**
 Adicione no micro-serviço os paramentos de sincronismo com o Discovery Server.
@@ -36,7 +36,7 @@ Sugestão: Iniciar um Discovery-Server via Docker será um grande diferencial.
 
 6)	**Tolerância a falhas:**
 Não podemos deixar que nosso serviço seja afetado por que o endpoint de consulta de CEP está fora do ar. Sendo assim por favor implemente o Hystrix no nosso projeto de testes.
-Em caso de falha... o que poderia acontecer para que o nosso endpoint não retorne apenas uma resposta de erro genérica?
+Em caso de falha... o que poderia acontecer para que o nosso endpoint não retorne apenas uma resposta de erro genérica?. Por favor justifique brevemente a responta.
 
 
 ## Como submeter o teste
