@@ -18,12 +18,12 @@ OBS: Será que temos alguma biblioteca pronta que podemos usar nesta atividade? 
 3)	Implementar serviços de consulta de CEP.
 Precisamos construir 2 serviços no projeto de teste, ambos vão consumir o seguinte endpoint:
 
-https://zuul.trusthub.com.br/orchestrator/v1/obter-endereco-por-cep/{CEP}
-{CEP} - Substituir pelo número do CEP
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://zuul.trusthub.com.br/orchestrator/v1/obter-endereco-por-cep/{CEP}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{CEP} - Substituir pelo número do CEP
 
-Agora, crie o primeiro endpoint GET em nosso micro-serviço que aceite o parâmetro CEP e retorne os detalhes do CEP, buscando em nossa API de CEP´s.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora, crie o primeiro endpoint GET em nosso micro-serviço que aceite o parâmetro CEP e retorne os detalhes do CEP, buscando em nossa API de CEP´s.
 
-Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
 
 4)	Implementação de Cache
 Pesquise e aplique alguma biblioteca de cache para tornar nosso micro-serviço mais rápido, assim evita chamar nossa API com dados consultados recentemente.
