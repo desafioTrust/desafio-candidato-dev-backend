@@ -21,9 +21,9 @@ Precisamos construir 2 serviços no projeto de teste, ambos vão consumir o segu
 https://zuul.trusthub.com.br/orchestrator/v1/obter-endereco-por-cep/{CEP}
 {CEP} - Substituir pelo número do CEP
 
-- Agora, crie o primeiro endpoint GET em nosso micro-serviço que aceite o parâmetro CEP e retorne os detalhes do CEP, buscando em nossa API de CEP´s.
+Agora, crie o primeiro endpoint GET em nosso micro-serviço que aceite o parâmetro CEP e retorne os detalhes do CEP, buscando em nossa API de CEP´s.
 
-- Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
+Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
 
 4)	Implementação de Cache
 Pesquise e aplique alguma biblioteca de cache para tornar nosso micro-serviço mais rápido, assim evita chamar nossa API com dados consultados recentemente.
