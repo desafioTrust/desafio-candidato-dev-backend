@@ -53,31 +53,31 @@ Sql ANCII<br />
 Eclipse IDE<br />
 GIT<br />
 <br /><br />
-- Stack **plus** de tecnologia
-Spring Boot
-Spring Eureka
-Spring ribbon
-Spring zuul
-Spring Swagger
-Spring Data
-Spring JDBCTemplate
-Spring Security
-Arquitetura Microserviços
-Banco de dados nao relacional (ex: mongo).
-HTML 5
-JAVASCRIPT
-TypeScript
-Angular 5.X
-Kibana
-Teste unitarios (junit).
+- Stack **plus** de tecnologia<br />
+Spring Boot<br />
+Spring Eureka<br />
+Spring ribbon<br />
+Spring zuul<br />
+Spring Swagger<br />
+Spring Data<br />
+Spring JDBCTemplate<br />
+Spring Security<br />
+Arquitetura Microserviços<br />
+Banco de dados nao relacional (ex: mongo).<br />
+HTML 5<br />
+JAVASCRIPT<br />
+TypeScript<br />
+Angular 5.X<br />
+Kibana<br />
+Teste unitarios (junit).<br />
 
 - Stack **direrenciais** de tecnologia
-Spring histrix
-DevOps
-Kubernetes
-docker
-Sql Server
-Mongo DB
+Spring histrix<br />
+DevOps<br />
+Kubernetes<br />
+Docker<br />
+Sql Server<br />
+Mongo DB<br />
 
 
 Boa sorte!
