@@ -52,7 +52,7 @@ Conceitos REST<br />
 Sql ANCII<br />
 Eclipse IDE<br />
 GIT<br />
-<br /><br />
+<br />
 - Stack **plus** de tecnologia<br />
 Spring Boot<br />
 Spring Eureka<br />
