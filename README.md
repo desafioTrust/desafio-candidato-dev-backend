@@ -13,7 +13,7 @@ Por favor execute as atividades que estão aqui embaixo, mostre seu potencial e 
 Precisamos que você revise nosso código, sendo assim por favor avalie com critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**, o que está no projeto de teste desafio-candidato-dev-backend. Monte por favor um **src/main/resources/CODEREVIEW.txt** com seus comentários. Você precisa apontar tudo o que você achar errado/estranho em todo o projeto.
 
 2)	**Healthcheck.**
-Os serviços precisam ser validados e monitorados por isso é necessário que seja implementado um serviço que cheque a saúde dos nossos serviços, sendo assim crie um endpoint healthcheck em nosso micro-serviço de teste desafio-candidato-dev-backend (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
+Os serviços precisam ser validados e monitorados por isso é necessário que seja implementado um resouce(api) que cheque a saúde dos nossos serviços, sendo assim crie um endpoint healthcheck em nosso micro-serviço de teste desafio-candidato-dev-backend (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
 OBS: Será que temos alguma biblioteca pronta que podemos usar nesta atividade? Qual seria?
 
 3)	**Implementar serviços de consulta de CEP.**
@@ -42,5 +42,43 @@ Em caso de falha... o que poderia acontecer para que o nosso endpoint não retor
 ## Como submeter o teste
 
 Ao finalizar envie um e-mail para **desafiodev@trust.com.vc** com nome, telefone para contato e link do repositório. Por favor avise também seu recrutador.
+
+Finalmente tenha em mente nosso stack de tecnologia:
+
+** BACK **
+** - Stack mandatorio de tecnologia **
+java 6 ou ++
+Spring (IOF) Injeção de dependencia
+Conceitos REST
+Sql ANCII
+Eclipse IDE
+GIT
+
+** - Stack plus de tecnologia **
+Spring Boot
+Spring Eureka
+Spring ribbon
+Spring zuul
+Spring Swagger
+Spring Data
+Spring JDBCTemplate
+Spring Security
+Arquitetura Microserviços
+Banco de dados nao relacional (ex: mongo).
+HTML 5
+JAVASCRIPT
+TypeScript
+Angular 5.X
+Kibana
+Teste unitarios (junit).
+
+** - Stack direrenciais de tecnologia **
+Spring histrix
+DevOps
+Kubernetes
+docker
+Sql Server
+Mongo DB
+
 
 Boa sorte!
