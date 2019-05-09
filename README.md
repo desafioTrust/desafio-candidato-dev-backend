@@ -45,14 +45,14 @@ Ao finalizar envie um e-mail para **desafiodev@trust.com.vc** com nome, telefone
 
 Finalmente tenha em mente nosso stack de tecnologia:
 
-- Stack **mandatorio** de tecnologia
-java 6 ou ++
-Spring (IOF) Injeção de dependencia
-Conceitos REST
-Sql ANCII
-Eclipse IDE
-GIT
-
+- Stack **mandatorio** de tecnologia<br />
+java 6 ou ++<br />
+Spring (IOF) Injeção de dependencia<br />
+Conceitos REST<br />
+Sql ANCII<br />
+Eclipse IDE<br />
+GIT<br />
+<br /><br />
 - Stack **plus** de tecnologia
 Spring Boot
 Spring Eureka
