@@ -45,8 +45,7 @@ Ao finalizar envie um e-mail para **desafiodev@trust.com.vc** com nome, telefone
 
 Finalmente tenha em mente nosso stack de tecnologia:
 
-** BACK **
-** - Stack mandatorio de tecnologia **
+- Stack **mandatorio** de tecnologia
 java 6 ou ++
 Spring (IOF) Injeção de dependencia
 Conceitos REST
@@ -54,7 +53,7 @@ Sql ANCII
 Eclipse IDE
 GIT
 
-** - Stack plus de tecnologia **
+- Stack **plus** de tecnologia
 Spring Boot
 Spring Eureka
 Spring ribbon
@@ -72,7 +71,7 @@ Angular 5.X
 Kibana
 Teste unitarios (junit).
 
-** - Stack direrenciais de tecnologia **
+- Stack **direrenciais** de tecnologia
 Spring histrix
 DevOps
 Kubernetes
