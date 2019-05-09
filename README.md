@@ -69,9 +69,9 @@ JAVASCRIPT<br />
 TypeScript<br />
 Angular 5.X<br />
 Kibana<br />
-Teste unitarios (junit).<br />
+Teste unitarios (junit).<br /><br />
 
-- Stack **direrenciais** de tecnologia
+- Stack **direrenciais** de tecnologia<br />
 Spring histrix<br />
 DevOps<br />
 Kubernetes<br />
