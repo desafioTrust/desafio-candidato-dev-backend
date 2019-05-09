@@ -77,7 +77,7 @@ DevOps<br />
 Kubernetes<br />
 Docker<br />
 Sql Server<br />
-Mongo DB<br />
+Mongo DB<br /><br /><br />
 
 
-Boa sorte!
+**Boa sorte!**
