@@ -49,7 +49,7 @@ Finalmente tenha em mente nosso stack de tecnologia:
 java 6 ou ++<br />
 Spring (IOF) Injeção de dependencia<br />
 Conceitos REST<br />
-Sql ANCII<br />
+Sql ANCI<br />
 Eclipse IDE<br />
 GIT<br /><br />
 
