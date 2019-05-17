@@ -7,14 +7,14 @@ Crie um repositório privado no GitHub.com a partir de um fork do projeto desafi
 
 Execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o profissional que você é. As atividades 1, 2 e 3 são para perfis Junior e Pleno; as posições Pleno e Sênior deverão responder todas as questões. **Boa sorte!**
 
-**Code Review.** 
+1) **Code Review:** <br/>
 Precisamos que você revise nosso código, sendo assim, por favor avalie o que está no projeto de teste desafio-candidato-dev-backend de acordo com os critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**. Monte um **src/main/resources/CODEREVIEW.txt** com seus comentários. Aponte tudo o que você achar errado/estranho em todo o projeto.
 
-2)            **Healthcheck.**
+2) **Healthcheck:**<br />
 Os serviços precisam ser validados e monitorados, por isso, é necessário que seja implementado um resouce(api) que cheque a saúde dos nossos serviços. Sendo assim, crie um endpoint healthcheck em nosso micro-serviço de teste desafio-candidato-dev-backend (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
 OBS: Será que temos alguma biblioteca pronta que podemos usar nesta atividade? Qual seria?
 
-3)            **Implementar serviços de consulta de CEP.**
+3) **Implementar serviços de consulta de CEP:**<br />
 Precisamos construir 2 serviços no projeto de desafio-candidato-dev-backend, ambos vão consumir o seguinte endpoint:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://zuul.trusthub.com.br/orchestrator/v1/obter-endereco-por-cep/{CEP}
@@ -24,15 +24,15 @@ Precisamos construir 2 serviços no projeto de desafio-candidato-dev-backend, am
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
 
-4)            **Implementação de Cache:**
+4) **Implementação de Cache:<br />
 Pesquise e aplique alguma biblioteca de cache para tornar nosso micro-serviço mais rápido,  assim evita chamar nossa API com dados consultados recentemente. Justifique brevemente sua resposta.
 
-5)            **Service Discovery e Perfil:**
+5) **Service Discovery e Perfil:**<br />
 Adicione no micro-serviço os paramentos de sincronismo com o Discovery Server.
 Crie 2 perfis para execução em seu micro-serviço.
 Sugestão: Iniciar um Discovery-Server via Docker será um grande diferencial.
 
-6)            **Tolerância a falhas:**
+6) **Tolerância a falhas:**<br />
 Não podemos deixar que nosso serviço seja afetado porque o endpoint de consulta de CEP está fora do ar. Sendo assim, implemente o Hystrix no nosso projeto de testes.
 Em caso de falha... o que poderia acontecer para que o nosso endpoint não retorne apenas uma resposta de erro genérica? Justifique brevemente sua resposta.
 
