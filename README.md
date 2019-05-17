@@ -24,7 +24,7 @@ Precisamos construir 2 serviços no projeto de desafio-candidato-dev-backend, am
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora, crie o segundo endpoint POST em nosso micro-serviço que aceite o parâmetro lista de CEP e retorne os detalhes de cada cep, buscando em nossa API de CEP´s.
 
-4) **Implementação de Cache:<br />
+4) **Implementação de Cache:**<br />
 Pesquise e aplique alguma biblioteca de cache para tornar nosso micro-serviço mais rápido,  assim evita chamar nossa API com dados consultados recentemente. Justifique brevemente sua resposta.
 
 5) **Service Discovery e Perfil:**<br />
