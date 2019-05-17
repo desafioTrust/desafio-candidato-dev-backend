@@ -7,7 +7,7 @@ Crie um repositório privado no GitHub.com a partir de um fork do projeto desafi
 
 Execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o profissional que você é. As atividades 1, 2 e 3 são para perfis Junior e Pleno; as posições Pleno e Sênior deverão responder todas as questões. **Boa sorte!**
 
-1)            **Code Review.** 
+**Code Review.** 
 Precisamos que você revise nosso código, sendo assim, por favor avalie o que está no projeto de teste desafio-candidato-dev-backend de acordo com os critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**. Monte um **src/main/resources/CODEREVIEW.txt** com seus comentários. Aponte tudo o que você achar errado/estranho em todo o projeto.
 
 2)            **Healthcheck.**
