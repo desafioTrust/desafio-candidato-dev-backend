@@ -5,13 +5,13 @@ Estamos disponibilizando para você um projeto REST Maven em Java muito parecido
 PASSO A PASSO PARA REALIZAÇÃO DO TESTE
 Crie um repositório privado no GitHub.com a partir de um fork do projeto desafio-candidato-dev-backend. Você também deve adicionar o usuário **desafioTrust** como colaborador deste repositório privado, para que possamos fazer a avaliação.
 
-Execute as atividades que estão aqui embaixo, mostre seu potencial e ajude a gente a conhecer melhor o profissional que você é. As atividades 1, 2 e 3 são para perfis Junior e Pleno; as posições Pleno e Sênior deverão responder todas as questões. **Boa sorte!**
+Execute as atividades abaixo, mostre seu potencial e ajude a gente a conhecer melhor o profissional que você é. As atividades 1, 2 e 3 são para perfis Junior e Pleno; as posições Pleno e Sênior deverão responder todas as questões. **Boa sorte!**
 
 1) **Code Review:** <br/>
 Precisamos que você revise nosso código, sendo assim, por favor avalie o que está no projeto de teste desafio-candidato-dev-backend de acordo com os critérios de: **padrões de projeto, boas práticas, padrões Rest de nomenclatura e codificação**. Monte um **src/main/resources/CODEREVIEW.txt** com seus comentários. Aponte tudo o que você achar errado/estranho em todo o projeto.
 
 2) **Healthcheck:**<br />
-Os serviços precisam ser validados e monitorados, por isso, é necessário que seja implementado um resouce(api) que cheque a saúde dos nossos serviços. Sendo assim, crie um endpoint healthcheck em nosso micro-serviço de teste desafio-candidato-dev-backend (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
+Os serviços precisam ser validados e monitorados, por isso, é necessário que seja implementado um resource(api) que cheque a saúde dos nossos serviços. Sendo assim, crie um endpoint healthcheck em nosso micro-serviço de teste desafio-candidato-dev-backend (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
 OBS: Será que temos alguma biblioteca pronta que podemos usar nesta atividade? Qual seria?
 
 3) **Implementar serviços de consulta de CEP:**<br />
