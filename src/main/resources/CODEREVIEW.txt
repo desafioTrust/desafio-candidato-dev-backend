@@ -1,0 +1,34 @@
+Estrutura do projeto
+    - Para facilitar trabalhar com microserviços, consolidar o projeto em uma pasta com o nome do serviço.
+        exemplo: desafio-candidato-dev-backend/CepService
+                desafio-candidato-dev-backend/DiscoveryService
+
+    - Adicionar um serviço de discovery "Recomendado utilizar o Eureka".
+    - Ao invez de utilizar um Factory e um Pojo, utilizar um CepRepository e um objeto Cep para facilitar a implementação de cache e sua utilização no Serviço ou Componente.
+
+Na estrutra srmasset
+    - Mover a classe main para a raiz do projeto do Spring boot.
+    - Adicionar Autor nas classes e uma breve descrição.
+    - Mudar de factory para repository
+
+Na classe EntityFactory
+    - Adicionar o que deve ser realizado pelo metodo "doSomething()" e colocar um nome mais acertivo de seu processo.
+    - Adicionar descrição dos metodos.
+    - Descrever no TODO cada atividade que está pendente de ser implementada.
+
+Na classe ThCepDetailsApplication
+    - Adicionar a anotation @EnableAutoConfiguration.
+
+
+No POM.xml
+    - Utilizar nomenclatura mais clara sobre o Serviço. exemplo: CepService.
+    - adicionar descrição do projeto.
+    
+No HELP.md
+    - Adicionar oque o projeto faz.
+    - Quais os endpoints, oque cada um recebe e oque é retornado?
+    - Nas dependencias já existe o Actuator, logo podemos usar o endpoint "/actuator/health" para realizar o Heath Check do serviço. 
+    - Qual a necessidade que gerou este projeto.
+    - Como inicializar o ambiente.
+    - Onde procurar ajuda sobre o projeto.
+    - Autor
