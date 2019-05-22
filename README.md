@@ -13,6 +13,7 @@ Precisamos que você revise nosso código, sendo assim, por favor avalie o que e
 2) **Healthcheck:**<br />
 Os serviços precisam ser validados e monitorados, por isso, é necessário que seja implementado um resource(api) que cheque a saúde dos nossos serviços. Sendo assim, crie um endpoint healthcheck em nosso micro-serviço de teste desafio-candidato-dev-backend (um endpoint GET /info) e retorne uma mensagem confirmando que nosso serviço está funcionando e recebendo requisições.
 OBS: Será que temos alguma biblioteca pronta que podemos usar nesta atividade? Qual seria?
+> Por ter a dependencia do Actuator instalado, é possivel utlizar o endpoint "/actuator/health". Caso seja configurado o ServiceDiscovery de forma default e seus clients, é possivel utilizar o http://localhost:8761/eureka/ e ver quais serviços estão de pé.
 
 3) **Implementar serviços de consulta de CEP:**<br />
 Precisamos construir 2 serviços no projeto de desafio-candidato-dev-backend, ambos vão consumir o seguinte endpoint:
