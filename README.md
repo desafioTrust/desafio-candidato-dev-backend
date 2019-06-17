@@ -69,7 +69,7 @@ Angular 5.X<br />
 Kibana<br />
 Teste unitarios (junit).<br /><br />
 
-- Stack **direrenciais** de tecnologia<br />
+- Stack **direrencial** de tecnologia<br />
 Spring histrix<br />
 DevOps<br />
 Kubernetes<br />
